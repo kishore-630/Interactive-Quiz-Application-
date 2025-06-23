@@ -23,3 +23,4 @@ The nextButton triggers either the loading of the next question or the display o
 
 *Output*:
 
+![Image](https://github.com/user-attachments/assets/f975a9e3-8457-4bde-bc86-6ae1f56f5997)
