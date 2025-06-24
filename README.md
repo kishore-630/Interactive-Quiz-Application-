@@ -25,3 +25,8 @@ The nextButton triggers either the loading of the next question or the display o
 *vedio Output*:
 
 https://github.com/user-attachments/assets/93454d3d-0b65-4df9-b545-88b466b3d212
+*PHOTO-1*:
+
+Image](https://github.com/user-attachments/assets/159c4cab-69a4-4c78-b688-1139880cc527
+*PHOTO-2*:
+
