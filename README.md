@@ -9,7 +9,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-*DESCRIPTION * :
+*DESCRIPTION* :
 The given frontend code represents a simple and interactive quiz web application designed using HTML, CSS, and JavaScript. It serves as a basic quiz platform titled "CODTECH Quiz", allowing users to test their general knowledge across multiple questions. The structure is divided into three main sections: the HTML markup, the CSS for styling, and the JavaScript for functionality and interactivity.
 
 In the HTML section, the webpage is structured with a quiz-container div that holds the main content. This includes a heading for the quiz title, a container to display questions and answers, a button for navigating to the next question, and a paragraph tag for displaying the score. The background of the page is set using an inline style that loads an image from a local directory (./images/image.jpg.jpeg). The HTML also includes external references to a CSS file (style.css) and a JavaScript file (script.js), which define the appearance and behavior of the quiz respectively.
