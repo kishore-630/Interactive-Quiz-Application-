@@ -26,9 +26,11 @@ The nextButton triggers either the loading of the next question or the display o
 
 https://github.com/user-attachments/assets/93454d3d-0b65-4df9-b545-88b466b3d212
 
+**photo outputs**
 *PHOTO-1*:
 
 ![Image](https://github.com/user-attachments/assets/d3d111ce-f7b4-4a69-bc19-21feb0794089)
 
 *PHOTO-2*:
 
+![Image](https://github.com/user-attachments/assets/c5787a95-c6c4-4c42-8e9a-e838ffd79ae2)
